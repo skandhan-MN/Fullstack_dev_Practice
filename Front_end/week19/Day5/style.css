@@ -1,0 +1,54 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .container div {
+    width: 100%;
+  }
+  
+  .box1 {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(238, 208, 128);
+  }
+  
+  .box2 {
+    display: flex;
+  }
+  
+  .box2 div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 83vh;
+  }
+  
+  .box2box1 {
+    max-width: 20%;
+    background-color: rgb(42, 161, 165);
+  }
+  
+  .box2box3 {
+    max-width: 20%;
+    background-color: rgb(250, 161, 202);
+  }
+  
+  .box2box2 {
+    max-width: 60%;
+    background-color: rgb(185, 243, 162);
+  }
+  
+  .box3 {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(148, 141, 248);
+  }

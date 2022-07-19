@@ -1,0 +1,10 @@
+n= int(input("enter a value"))
+for i in range(n):
+    for j in range(n):
+        for l in range(n):
+            for m in range(n):
+                for l in range(n):
+                    for z in range(n):
+                        print("time complexity")   
+
+#Time Complexity is O(n^2)
