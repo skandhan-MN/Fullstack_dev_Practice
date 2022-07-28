@@ -1,0 +1,28 @@
+*{
+    /* padding: 20px; */
+    font-size: 40px;
+}
+.parent{
+   padding: 10px;
+    background-color: aqua;
+}
+.child1{
+    position: relative;
+    left: 10px ;
+    background-color: blue;
+}
+
+.child2{
+    
+    background-color: rgb(179, 0, 255);
+}
+
+.child3{
+    
+    background-color: rgb(255, 0, 111);
+}
+
+.child4{
+    
+    background-color: rgb(0, 255, 51);
+}

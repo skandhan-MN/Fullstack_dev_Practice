@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+.box1{
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 50%;
+    background-color: aqua;
+    border: 5px dashed black;
+    padding: 1.5em;
+}
+.box2{
+    width:25%;
+    background-color: rgb(157, 0, 255);
+    border-top: 10px double black;
+    border-bottom: 10px double black;
+    padding: 2em 20px;
+    margin:2em ;
+    margin-bottom: 20px ;
+}
+.box3{
+    width: 10em;
+    margin: 2em 150px 1em 500px;
+    border: 1em ridge red;
+    padding: 30px;
+    background-color: burlywood;
+}
